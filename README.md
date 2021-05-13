@@ -10,4 +10,4 @@ To complete this work the following were used:
 * HTML/CSS portfolio to showcase the data
 * Bootstrap components to polish and customize the portfolio
 
-![Misson_to_Mars.png](images/Misson_to_Mars.png)
+![Mission_to_Mars.png](images/Mission_to_Mars.png)
