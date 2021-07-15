@@ -1,7 +1,7 @@
-# Mission to Mars
+# News from Mars
 
 ## Overview
-The goal was to automate a web browser with current data about Mars. A web scrape was performed to gather the latest Mars news, a featured mars image, a table containing facts about Mars and full-resolution images of Mars’s hemispheres.
+The goal was to automate a web browser with current news about Mars. A web scrape was performed to gather the latest Mars news, a featured mars image, a table containing facts about Mars and full-resolution images of Mars’s hemispheres.
 
 To complete this work the following were used:
 
